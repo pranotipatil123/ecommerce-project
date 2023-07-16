@@ -16,7 +16,7 @@ return(
 <>
 <Navbar bg="dark" variant="dark">
 <Container>
-  <Navbar.Brand href="#home">Online Shopping</Navbar.Brand>
+  <Navbar.Brand href="#home">Online Shopping Website</Navbar.Brand>
   
 
 <Form className="d-flex">
